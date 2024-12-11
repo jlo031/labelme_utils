@@ -14,7 +14,7 @@ First create and anaconda environment with gdal and labelme installed:
     pip install ipython
     pip install labelme
 
-Then install the current version of labelme_utils:
+Then install the current version of *labelme_utils*:
 
     # install this package
     pip install git+https://github.com/jlo031/labelme_utils
